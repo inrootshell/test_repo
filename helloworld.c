@@ -2,6 +2,6 @@
 
 int main(int argc, char** argv, char** envp)
 {
-	fputs("Hello World");
+	printf("Hello World");
 	return 0;
 }
